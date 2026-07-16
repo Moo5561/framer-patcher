@@ -37,3 +37,10 @@ This will automatically look through all the HTML files in the folder, inject th
 
 ## 5. Deploy
 Now you can upload your clean, watermark-free files straight to GitHub Pages, Vercel, Netlify, or whatever hosting platform you want.
+
+### VERY IMPORTANT LEGAL DISCLAIMER!!!
+By using this script, you acknowledge that modifying or removing branding from Framer-hosted websites may violate Framer's Terms of Service.
+
+The author (Moo5561) assumes no responsibility for any issues, account restrictions, or legal complications that may arise from using this software.
+
+Use this tool at your own risk.
