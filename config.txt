@@ -1,0 +1,5 @@
+# Change your website title
+name="My Epic Portfolio"
+
+# Path to your favicon file (e.g., favicon.ico, logo.png, etc.)
+favicon="favicon.ico"
